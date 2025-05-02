@@ -47,6 +47,10 @@ StayEase is a full-stack clone of the AirBnB platform. The application allows us
 | **Listing Detailed View** | Full details of a selected property including description, images, pricing, and booking form |
 | **Simple Checkout View**  | Streamlined booking process, with user information, payment form, and confirmation |
 
+### Importance of User-Friendly Design
+
+A user-friendly design minimizes friction in the booking process, making it easier for users to find and reserve properties. Well-designed interfaces increase user satisfaction, reduce drop-off rates, and improve trust in the platform. Accessibility, responsiveness, and clarity are essential to building a product that is intuitive and inclusive for all users.
+
 ### Figma Design Specifications
 
 #### Color Styles
